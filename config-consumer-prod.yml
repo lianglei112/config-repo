@@ -1,5 +1,9 @@
+# 生产环境
 info:
   profile: prod
   
 name: Paul
 words: 'God bless you123 '
+
+# 加上cipher以后，我们的配置中心可对之后的字符串进行解密操作
+food: '{cipher}8a5c2a506777a21b5591e8f537c4a13f1530dc87fe114d83aca26a7f4cb617e1'
